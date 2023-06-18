@@ -10,6 +10,9 @@ SpamBOT
 coming soon:
 zphisher
 sqlmap
+ipinfo
+wifite
+wifite 2
 ...
 and more
 
