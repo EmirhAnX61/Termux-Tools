@@ -6,8 +6,8 @@ if you like version 1.1 wait big update
 
 TERMUX TOOLS:
 SpamBOT
-ipinfo
-midipianoplayer
+ipinfo(in addons)
+midipianoplayer(in addons)
 
 coming soon:
 zphisher
