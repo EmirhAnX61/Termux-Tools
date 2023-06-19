@@ -1,4 +1,4 @@
-# Termux-Tools-By-EmirhAnX
+# Termux-Tools
 
 This is version 1.0
 
