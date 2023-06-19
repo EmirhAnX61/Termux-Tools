@@ -1,0 +1,6 @@
+python -m pip install --upgrade pip --user
+python get-pip.py
+pip install tk
+pip install webbrowser
+pip --version
+python wait.py
