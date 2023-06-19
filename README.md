@@ -1,16 +1,17 @@
 # Termux-Tools
 
-This is version 1.0
+This is version 1.1
 
-if you like version 1.0 wait big update
+if you like version 1.1 wait big update
 
 TERMUX TOOLS:
 SpamBOT
+ipinfo
+midipianoplayer
 
 coming soon:
 zphisher
 sqlmap
-ipinfo
 wifite
 wifite 2
 ...
