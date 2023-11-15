@@ -17,3 +17,5 @@ wifite 2
 ...
 and more
 
+
+Note:Deleted
