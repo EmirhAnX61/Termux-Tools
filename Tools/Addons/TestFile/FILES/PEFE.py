@@ -1,1 +1,0 @@
-str(input("press ENTER for exit..."))

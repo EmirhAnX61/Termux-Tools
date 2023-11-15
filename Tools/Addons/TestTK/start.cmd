@@ -1,3 +1,0 @@
-color a
-LÜTFEN DOWNLOAD.CMD DOSYASINI DAHA ÖNCE BAŞLATMIŞ OLUN
-python main.py
